@@ -1,4 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-Mark Blumenau <burunduk10@inbox.ru>
 MariaShemeteva <mpshemeteva@edu.hse.ru>
 DimaVorobev <dlvorobev@edu.hse.ru>
+Mark Blumenau <burunduk10@inbox.ru>
