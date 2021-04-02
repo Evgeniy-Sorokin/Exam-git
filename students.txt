@@ -1,3 +1,4 @@
 Konstantin Malanchev <hombit@gmail.com>
-MixaSv <smichav@mail.ru>:
+MixaSv <smichav@mail.ru>
 MariaShemeteva <mpshemeteva@edu.hse.ru>
+SmolkoF <fvsmolko@edu.hse.ru>
