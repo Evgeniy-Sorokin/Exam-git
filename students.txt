@@ -1,4 +1,4 @@
-Konstantin Malanchev <hombit@gmail.com>
+Konstantin Malanchev <hombit@gmail.com>D
 Sergey Sorokin <sasorokin_2@edu.hse.ru>
 Nikitin Ilya <isnikitin_1@edu.hse.ru
 svetlana-voskr <savoskresenskaya@edu.hse.ru>
@@ -15,3 +15,5 @@ daniildorofeev-1 <dorofeevdaniil@gmail.com>
 George <teacater@gmail.com>
 Perfilov Andrey <senior-perfilov@yandex.ru>
 Maltsev <mvmaltsev@edu.hse.ru>
+Anna Aerova <aaaerova@edu.hse.com>
+
