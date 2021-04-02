@@ -1,5 +1,6 @@
 Konstantin Malanchev <hombit@gmail.com>
+<<<<<<< HEAD
 Pavlov Maxim <mspavlov@edu.hse.ru>
 Alexey <Altius01@mail.ru>
-
+DimaVorobev <dlvorobev@edu.hse.ru>
 
