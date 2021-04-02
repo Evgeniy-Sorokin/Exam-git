@@ -1,6 +1,14 @@
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
 Pavlov Maxim <mspavlov@edu.hse.ru>
 Alexey <Altius01@mail.ru>
 DimaVorobev <dlvorobev@edu.hse.ru>
+MixaSv <smichav@mail.ru>
+MariaShemeteva <mpshemeteva@edu.hse.ru>
+SmolkoF <fvsmolko@edu.hse.ru>
+DimaVorobev <dlvorobev@edu.hse.ru>
+zlatovladdka <vlad.temkin@gmail.com>
+Sergey Sorokin <sasorokin_2@edu.hse.ru>
+Nikitin Ilya <isnikitin_1@edu.hse.ru>
+svetlana-voskr <savoskresenskaya@edu.hse.ru>
+Mark Blumenau <burunduk10@inbox.ru>
 
