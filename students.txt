@@ -2,6 +2,7 @@ Alexey <Altius01@mail.ru>
 DimaVorobev <dlvorobev@edu.hse.ru>
 Konstantin Malanchev <hombit@gmail.com>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Georgii Ulev <gdulev@edu.hse.ru>
 =======
 MariaShemeteva <mpshemeteva@edu.hse.ru>
@@ -10,3 +11,6 @@ Nikitin Ilya <isnikitin_1@edu.hse.ru>
 Sergey Sorokin <sasorokin_2@edu.hse.ru>
 svetlana-voskr <savoskresenskaya@edu.hse.ru>
 >>>>>>> 7e0f42041f3c74dc612dccc8ec43762f55b59395
+=======
+Anna Aerova <aaaerova@edu.hse.com>
+>>>>>>> 9eefe533d09ac1db67e14aa9d75c1d81aa053afa
