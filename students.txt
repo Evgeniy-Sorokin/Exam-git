@@ -1,6 +1,2 @@
 Konstantin Malanchev <hombit@gmail.com>
-<<<<<<< HEAD
 SmolkoF <fvsmolko@edu.hse.ru>
-=======
-
->>>>>>> master
